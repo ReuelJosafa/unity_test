@@ -13,6 +13,7 @@ class Person {
     var result = weight / math.pow(height, 2);
     return result.toStringAsFixed(2);
   } */
+  
 
   double get imc {
     var result = weight / math.pow(height, 2);
